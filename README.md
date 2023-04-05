@@ -1,0 +1,2 @@
+# AIR32_IRUniversalRemoteControls
+一个基于Air32的万能红外遥控器，代码质量不高图一乐，有问题欢迎提issue
